@@ -45,7 +45,7 @@
 <h2>📋 Como usar</h2>
 <ol>
   <li>Clone este repositório:
-    <pre><code>git clone https://github.com/LiviaTi/ZenBot</code></pre>
+    <pre><code>git clone https://github.com/LiviaTi/ZenBot.git</code></pre>
   </li>
   <li>Instale as dependências:
     <pre><code>pip install -r requirements.txt</code></pre>
