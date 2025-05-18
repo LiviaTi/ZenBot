@@ -13,14 +13,11 @@
 <p align="center">
   <img src="./ZenBot.png" alt="ZenBot" width="350"/>
 </p>
-
 <h2>🚀 Sobre</h2>
-<p>Nos desafios acelerados dos estudos, manter o foco aliado à saúde emocional é fundamental para alcançar o sucesso. O ZeBot é seu assistente inteligente e empático, que acompanha seu humor, organiza pausas estratégicas e motiva você a estudar de forma eficiente, sem perder o equilíbrio. Estude com qualidade e cuide de si mesmo.</p>
-<p>ZeBot é um chatbot desenvolvido especialmente para apoiar estudantes na gestão da saúde emocional, otimização do foco e aprimoramento dos hábitos de estudo. Com check-ins diários, técnicas práticas de respiração, modo Pomodoro personalizado e lembretes de autocuidado, ele está ao seu lado para ajudar você a estudar melhor e viver com mais equilíbrio e bem-estar.</p>
-
-
+<p>
+  ZenBot é seu assistente inteligente e empático que acompanha seu humor, organiza pausas e motiva você a estudar melhor, sem surtar. Estude com qualidade e cuide de você. Manter foco e saúde emocional é essencial para o sucesso.
+</p>
 <hr />
-
 <h2>💡 Funcionalidades principais</h2>
 <ul>
   <li><strong>Check-in emocional diário:</strong> Pergunta como você está se sentindo e adapta sugestões para o seu humor.</li>
