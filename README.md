@@ -4,57 +4,23 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ZenBot — Assistente Virtual para Estudo e Equilíbrio</title>
-<p align="center">
-  <img src="./logo-zenbot.png" alt="ZenBot" width="350"/>
-</p>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-    line-height: 1.6;
-    color: #222;
-    background-color: #f9f9f9;
-  }
-  h1, h2, h3 {
-    color: #2c3e50;
-  }
-  pre {
-    background: #272822;
-    color: #f8f8f2;
-    padding: 1rem;
-    overflow-x: auto;
-    border-radius: 5px;
-  }
-  a {
-    color: #2980b9;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  code {
-    background: #eaeaea;
-    padding: 2px 5px;
-    border-radius: 3px;
-  }
-  hr {
-    margin: 2rem 0;
-    border: none;
-    border-top: 1px solid #ddd;
-  }
-</style>
+
+
 </head>
 <body>
 
 <h1>ZenBot — Seu assistente virtual para foco e equilíbrio nos estudos</h1>
 
-<!-- <img src="https://user-images.githubusercontent.com/yourusername/ze-bot-banner.png" alt="ZeBot Banner" style="max-width:100%; height:auto;" /> -->
+</br>
+<h2>Estude com foco, cuide da mente e supere o estresse. ZenBot te ajuda a manter equilíbrio e motivação todos os dias!</h2>h2>
+<p align="center">
+  <img src="./logo-zenbot_.png" alt="ZenBot" width="350"/>
+</p>
 
 <h2>🚀 Sobre</h2>
-<p>ZenBot é um chatbot inteligente e empático criado para ajudar estudantes a cuidar da saúde emocional, manter o foco e melhorar seus hábitos de estudo. Com check-ins diários, técnicas de respiração, modo Pomodoro personalizado e lembretes de autocuidado, o ZenBot te acompanha para que você estude melhor e viva com mais equilíbrio.</p>
+<h4>No ritmo acelerado dos estudos, manter foco e saúde emocional é essencial para o sucesso. ZenBot é seu assistente inteligente e empático que acompanha seu humor, organiza pausas e motiva você a estudar melhor, sem surtar. Estude com qualidade e cuide de você.
+</h4>
+  <p>ZenBot é um chatbot inteligente e empático criado para ajudar estudantes a cuidar da saúde emocional, manter o foco e melhorar seus hábitos de estudo. Com check-ins diários, técnicas de respiração, modo Pomodoro personalizado e lembretes de autocuidado, o ZenBot te acompanha para que você estude melhor e viva com mais equilíbrio.</p>
 
 <hr />
 
@@ -96,12 +62,6 @@
 </ol>
 
 <hr />
-
-
-
-
-
-
 
 </body>
 </html>
