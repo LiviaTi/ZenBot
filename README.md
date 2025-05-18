@@ -11,7 +11,7 @@
 </br>
 <h2>Estude com foco, cuide da mente e supere o estresse. ZenBot te ajuda a manter equilíbrio e motivação todos os dias!</h2>
 <p align="center">
-  <img src="./logo-zenbot_.png" alt="ZenBot" width="350"/>
+  <img src="./ZenBot.png" alt="ZenBot" width="350"/>
 </p>
 
 <h2>🚀 Sobre</h2>
